@@ -39,7 +39,8 @@ function verificarChute(){
     // numeroSecreto esta na memoria, por isso não precisou receber o parametro
     if(chute == numeroSecreto){
         exibirTextoNaTela('h1', 'Acertou!!');
-        
+
+        // Operador ternário - se for maior que 1 plural se não singular
         let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
         let mensagemTentativas = `Você descobriu o número secreto com ${tentativas} ${palavraTentativa}!`
         exibirTextoNaTela('p', mensagemTentativas);
