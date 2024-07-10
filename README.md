@@ -27,7 +27,8 @@ Bem-vindo ao meu repositório onde compartilho o resultado de cursos e aulas que
   - Crie manipulações de palavras e números de forma dinâmica com JavaScript.
 
 ### Sobre o projeto
-O projeto é um jogo de adivinhação de números secretos. O código seleciona aleatoriamente um número de 1 a 30, e o usuário deve adivinhar qual foi o número escolhido. Se o usuário acertar, uma mensagem será exibida informando que ele acertou, juntamente com o número de tentativas usadas para acertar.
+
+O projeto é um jogo de adivinhação de números secretos. O código seleciona aleatoriamente um número de 1 a 30, e o usuário deve adivinhar qual foi o número escolhido. Se o usuário acertar, uma mensagem será exibida informando que ele acertou, juntamente com o número de tentativas usadas.
 
 ### Meu Ponto de Vista
 
