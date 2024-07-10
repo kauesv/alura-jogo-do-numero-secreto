@@ -1,6 +1,6 @@
 # 📚 Bem-vindo ao repositório do curso da Alura 
 
-Bem-vindo ao meu repositório onde compartilho o curso e aulas que participei.
+Bem-vindo ao meu repositório onde compartilho o resultado de cursos e aulas que participei.
 
 ---
 
@@ -8,30 +8,27 @@ Bem-vindo ao meu repositório onde compartilho o curso e aulas que participei.
 
 - **Plataforma:** Alura
 - **Instrutores:** Guilherme Lima e Mônica Mazzochi Hillman
-- **Duração:** +6h
+- **Duração:** +12h
+- **Cursos:** 2 Cursos para chegar no resultado
 
-### Descrição do Curso
+### Descrição dos dois cursos
+1. Lógica de programação: mergulhe em programação com JavaScript
+  - Exiba mensagens na tela de forma interativa
+  - Utilize variáveis no desenvolvimento de software
+  - Ingresse no mundo de desenvolvimento seguindo boas práticas de programação
+  - Desenvolva uma aplicação do início ao fim, inspirada no mundo real
+  - Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software
 
-- Exiba mensagens na tela de forma interativa
-- Utilize variáveis no desenvolvimento de software
-- Ingresse no mundo de desenvolvimento seguindo boas práticas de programação
-- Desenvolva uma aplicação do início ao fim, inspirada no mundo real
-- Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software
-- Aprenda o que são funções e como usar o JavaScript para manipular elementos na tela.
-- Desenvolva ainda mais sua lógica de programação inspirado num projeto real.
-- Saiba como usar o Github e Vercel para publicar seus projetos.
-- Descubra como utilizar listas, uma das principais estruturas de dados no mundo da programação.
-- Crie manipulações de palavras e números de forma dinâmica com JavaScript.
+2. Lógica de programação: explore funções e listas
+  - Aprenda o que são funções e como usar o JavaScript para manipular elementos na tela.
+  - Desenvolva ainda mais sua lógica de programação inspirado num projeto real.
+  - Saiba como usar o Github e Vercel para publicar seus projetos.
+  - Descubra como utilizar listas, uma das principais estruturas de dados no mundo da programação.
+  - Crie manipulações de palavras e números de forma dinâmica com JavaScript.
 
 ### Meu Ponto de Vista
 
-> "Achei este curso extremamente útil para entender os fundamentos do Javascript, já que eu não tinha muito contato com a linguagem. Os exemplos práticos foram particularmente esclarecedores, como esta no repositório e os instrutores foram muito bem com a didática e o caminho para o aprendizado."
-
----
-
-## Conclusão
-
-Gostei do curso, aprendi um pouco de JavaScript, eu sei que ainda é um começo, mas foi bem interessante.
+> "Gostei do curso, aprendi um pouco de JavaScript, eu sei que ainda é um começo, achei este curso extremamente útil para entender os fundamentos do Javascript, já que eu não tinha muito contato com a linguagem. Os exemplos práticos foram particularmente esclarecedores, como esta no repositório e os instrutores foram muito bem com a didática e o caminho para o aprendizado. NÃO foi ensinado HTML e nem CSS no curso, então o que esta no repositório foi entregue pronto no curso, porque o foco era o JavaScript."
 
 ---
 
