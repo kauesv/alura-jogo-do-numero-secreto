@@ -11,20 +11,21 @@ Bem-vindo ao meu repositório onde compartilho o resultado de cursos e aulas que
 - **Duração:** +12h
 - **Cursos:** 2 Cursos para chegar no resultado
 
-### Descrição dos dois cursos
+### O que tive de aulas nos cursos:
 1. Lógica de programação: mergulhe em programação com JavaScript
-  - Exiba mensagens na tela de forma interativa
-  - Utilize variáveis no desenvolvimento de software
-  - Ingresse no mundo de desenvolvimento seguindo boas práticas de programação
-  - Desenvolva uma aplicação do início ao fim, inspirada no mundo real
-  - Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software
+  - Exibição de mensagens na tela de forma interativa
+  - Utilização de variáveis
+  - Condicionais e concatenação
+  - Loops
+  - Boas práticas com JavaScript
 
 2. Lógica de programação: explore funções e listas
-  - Aprenda o que são funções e como usar o JavaScript para manipular elementos na tela.
-  - Desenvolva ainda mais sua lógica de programação inspirado num projeto real.
-  - Saiba como usar o Github e Vercel para publicar seus projetos.
-  - Descubra como utilizar listas, uma das principais estruturas de dados no mundo da programação.
-  - Crie manipulações de palavras e números de forma dinâmica com JavaScript.
+  - Como usar Funções e seus tipos
+  - Manipulação de elementos no HTML.
+  - Lógicas mais detalhadas com as condições e funções.
+  - Github.
+  - Utilização de listas(Array).
+  - Manipulações de palavras e números de forma mais dinâmica com JavaScript.
 
 ### Sobre o projeto
 
