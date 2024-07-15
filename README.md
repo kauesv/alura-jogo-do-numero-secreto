@@ -1,7 +1,6 @@
 # 📚 Bem-vindo ao repositório do curso da Alura 
 
-Bem-vindo ao meu repositório onde compartilho o resultado de cursos e aulas que participei.
-
+Nesse repositório onde compartilho o resultado de cursos e aulas que participei.
 ---
 
 ## lógica de Programação com Javascript
